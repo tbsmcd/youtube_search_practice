@@ -4,8 +4,6 @@ import configparser
 import requests
 import click
 
-import pprint
-
 ini_file = os.path.dirname(__file__) + '/api.ini'
 
 
